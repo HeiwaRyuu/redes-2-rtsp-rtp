@@ -13,4 +13,4 @@ RTP_port    -> pela porta para receber pacotes RTP.
 video_file  -> Use o arquivo de vídeo fornecido (movie.Mjpeg).
 
 Exemplo:
-python ClientLauncher.py 127.0.0.1 5555 6000 movie.Mjpeg"# redes-2-rtsp-rtp" 
+python ClientLauncher.py 127.0.0.1 5555 6000 movie.Mjpeg
